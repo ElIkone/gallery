@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/ImageViewer.qml</file>
+        <file>qml/BottomBar.qml</file>
+        <file>qml/TopBar.qml</file>
+        <file>qml/BackButton.qml</file>
+    </qresource>
+</RCC>
